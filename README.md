@@ -11,5 +11,6 @@ $ python3 hello.py
 '''
 
 ## Contributing
+I wanna be programmer!!
 
 ## LICENCE
